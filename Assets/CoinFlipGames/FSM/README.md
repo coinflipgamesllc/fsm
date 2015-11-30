@@ -3,7 +3,7 @@
 
 ### Usage
 
-```
+```csharp
 using CoinFlipGames.FSM;
 using System;
 using UnityEngine;
